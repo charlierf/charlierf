@@ -8,6 +8,11 @@
 Sou um estudante de Ciência da Computação com formação em Direito e interesse em dados e inteligência artificial, busco um estágio ou uma posição júnior na área de TI para aplicar os meus conhecimentos e desenvolver novas habilidades. Também gosto de escrever, tendo publicado em 2023 o livro "15 Contos de Suspense e Mistério do ChatGPT" em que exploro a capacidade criativa da ferramenta, poucos meses após o seu lançamento ao público.
 
 ### Habilidades
+- Inteligência Artificial:
+	![OpenAI GPT](https://img.shields.io/badge/OpenAI_GPT-412991?style=for-the-badge&logo=openai&logoColor=white)
+	![Google Gemini](https://img.shields.io/badge/Google_Gemini-4285F4?style=for-the-badge&logo=googlegemini&logoColor=white)
+	![Yolov8](https://img.shields.io/badge/Yolov8-007ACC?style=for-the-badge&logo=yolo&logoColor=white)
+	![Langchain](https://img.shields.io/badge/Langchain-2D3748?style=for-the-badge&logo=langchain&logoColor=white)
 - Desenvolvimento Web: 
 	![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
     ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -42,11 +47,11 @@ Sou um estudante de Ciência da Computação com formação em Direito e interes
 [![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=007BFF)](mailto:dev@charliefonseca.com.br)
 
 ### Experiência
+- **Estagiário em Inteligência Artificial** na Chip&Cia
+  - Estágio voltado para inteligência artificial gerativa, modelos grandes de linguagem e processamento de linguagem natural.
+
 - **Desenvolvedor de front-end** na SofTeam
   - Desenvolvi interfaces web responsivas e dinâmicas para sistemas web-based em AngularJS e ReactJS. Aprendi sobre boas práticas de engenharia de software e metodologias ágeis. Colaborei com uma equipe multidisciplinar de programadores, designers e gerentes de projeto aplicando os conceitos de engenharia de software, programação orientada a objetos e programação funcional.
-
-- **Freelancer** na Remotasks
-  - Trabalho freelance para revisão de anúncios online em português e em inglês, a fim de melhorar seu conteúdo, qualidade e layout. Essa experiência também possibilitou o desenvolvimento de habilidades de gerenciamento de tempo e idiomas, bem como a atenção aos detalhes.
 
 - **Personalized Internet Ads Assessor** na Telus International
   - Anotei vídeos em francês em uma equipe multilíngue fixa para um projeto de inteligência artificial.
