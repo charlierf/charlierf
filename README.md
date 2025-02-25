@@ -9,6 +9,7 @@ Sou **pesquisador e desenvolvedor em IA** com formação em **Direito** e gradua
 
 ### Habilidades
 - Inteligência Artificial:
+	![Ollama](https://img.shields.io/badge/Ollama-FF9900?style=for-the-badge&logo=ollama&logoColor=white)
 	![OpenAI GPT](https://img.shields.io/badge/OpenAI_GPT-412991?style=for-the-badge&logo=openai&logoColor=white)
 	![Google Gemini](https://img.shields.io/badge/Google_Gemini-4285F4?style=for-the-badge&logo=googlegemini&logoColor=white)
 	![Yolov8](https://img.shields.io/badge/Yolov8-007ACC?style=for-the-badge&logo=yolo&logoColor=white)
@@ -47,16 +48,14 @@ Sou **pesquisador e desenvolvedor em IA** com formação em **Direito** e gradua
 [![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=007BFF)](mailto:dev@charliefonseca.com.br)
 
 ### Experiência
-- **Estagiário em Inteligência Artificial** na Chip&Cia
-  - Estágio voltado para inteligência artificial gerativa, modelos grandes de linguagem e processamento de linguagem natural.
+- **Chip&Cia**  
+  Atuo no desenvolvimento de soluções inovadoras em inteligência artificial generativa, explorando modelos de linguagem avançados e técnicas de processamento de linguagem natural para aprimorar a automação jurídica.
 
-- **Desenvolvedor de front-end** na SofTeam
-  - Desenvolvi interfaces web responsivas e dinâmicas para sistemas web-based em AngularJS e ReactJS. Aprendi sobre boas práticas de engenharia de software e metodologias ágeis. Colaborei com uma equipe multidisciplinar de programadores, designers e gerentes de projeto aplicando os conceitos de engenharia de software, programação orientada a objetos e programação funcional.
+- **SofTeam**  
+  Desenvolvi interfaces web responsivas e dinâmicas para sistemas web-based utilizando AngularJS e ReactJS. Aprimorei práticas de engenharia de software e colaborei com equipes multidisciplinares, aplicando conceitos de programação orientada a objetos e funcional.
 
-- **Personalized Internet Ads Assessor** na Telus International
-  - Anotei vídeos em francês em uma equipe multilíngue fixa para um projeto de inteligência artificial.
-  - Comuniquei-me em inglês com os líderes e colegas de equipe para resolver dúvidas e problemas.
-  - Gerenciei o meu tempo e as minhas entregas de acordo com os prazos estabelecidos.
+- **Telus International – Personalized Internet Ads Assessor**  
+  Participei de um projeto de inteligência artificial, anotando vídeos em francês e colaborando com líderes e colegas de equipe em inglês para esclarecer dúvidas e garantir o cumprimento dos prazos estabelecidos.
 
 ### Educação
 - **Bacharelado em Ciência da Computação** (em andamento) - Universidade Federal de Sergipe
