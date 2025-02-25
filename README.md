@@ -1,11 +1,11 @@
 # Charlie Fonseca
 
-## Estudante de Ciência da Computação | Desenvolvedor Front-end | Advogado
+## Pesquisador e Desenvolvedor em IA | Advogado
 
 [Charlie Fonseca](https://dev.charliefonseca.com.br/)
 
 ### Sobre Mim
-Sou um estudante de Ciência da Computação com formação em Direito e interesse em dados e inteligência artificial, busco um estágio ou uma posição júnior na área de TI para aplicar os meus conhecimentos e desenvolver novas habilidades. Também gosto de escrever, tendo publicado em 2023 o livro "15 Contos de Suspense e Mistério do ChatGPT" em que exploro a capacidade criativa da ferramenta, poucos meses após o seu lançamento ao público.
+Sou **pesquisador e desenvolvedor em IA** com formação em **Direito** e graduando em **Ciência da Computação**. Tenho experiência em **Machine Learning**, **Visão Computacional** e **LLMs**, com foco em **automação jurídica** e **análise de dados**. Contribuo para o projeto **AssessorAI**, aplicando soluções de IA para análise jurídica, e participo do projeto **HelpU**, aprovado na **13ª edição do Campus Mobile**. Em **2023**, publiquei o livro *15 Contos de Suspense e Mistério do ChatGPT*, explorando o potencial criativo da **inteligência artificial generativa**.
 
 ### Habilidades
 - Inteligência Artificial:
