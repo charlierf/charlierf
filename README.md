@@ -5,7 +5,7 @@
 [Charlie Fonseca](https://dev.charliefonseca.com.br/)
 
 ### Sobre Mim
-Sou **pesquisador e desenvolvedor em IA** com formação em **Direito** e graduando em **Ciência da Computação**. Tenho experiência em **Machine Learning**, **Visão Computacional** e **LLMs**, com foco em **automação jurídica** e **análise de dados**. Contribuo para o projeto **AssessorAI**, aplicando soluções de IA para análise jurídica, e participo do projeto **HelpU**, aprovado na **13ª edição do Campus Mobile**. Em **2023**, publiquei o livro *15 Contos de Suspense e Mistério do ChatGPT*, explorando o potencial criativo da **inteligência artificial generativa**.
+Sou **pesquisador e desenvolvedor em IA** com formação em **Direito** e graduando em **Ciência da Computação**. Tenho experiência em **Machine Learning**, **Visão Computacional** e **LLMs**, com foco em **automação jurídica** e **análise de dados**. Contribuí para o projeto **AssessorAI**, aplicando soluções de IA para análise jurídica, e participo do projeto **HelpU**, aprovado na **13ª edição do Campus Mobile**. Em **2023**, publiquei o livro *15 Contos de Suspense e Mistério do ChatGPT*, explorando o potencial criativo da **inteligência artificial generativa**.
 
 ### Habilidades
 - Inteligência Artificial:
@@ -32,6 +32,7 @@ Sou **pesquisador e desenvolvedor em IA** com formação em **Direito** e gradua
     ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 
 ### Projetos
+- [Algoritmo Deep Learning para Reconhecimento Facial com Keras](https://github.com/charlierf/hands-on-ml-face-recognition)
 - [Implementação de Backtracking](https://github.com/charlierf/paa/tree/main/Labiritinto%20-%20backtracking)
 - [Problema da Mochila e do Container](https://github.com/charlierf/paa/tree/main/Transportadora%20-%20dynamicprogramming)
 - [Implementação de MergeSort](https://github.com/charlierf/paa/tree/main/Porto%20-%20mergesort)
@@ -49,7 +50,7 @@ Sou **pesquisador e desenvolvedor em IA** com formação em **Direito** e gradua
 
 ### Experiência
 - **Chip&Cia**  
-  Atuo no desenvolvimento de soluções inovadoras em inteligência artificial generativa, explorando modelos de linguagem avançados e técnicas de processamento de linguagem natural para aprimorar a automação jurídica.
+  Atuei no desenvolvimento do AssessorAI, uma solução inovadoras em inteligência artificial generativa, explorando modelos de linguagem avançados e técnicas de processamento de linguagem natural para aprimorar a automação jurídica.
 
 - **SofTeam**  
   Desenvolvi interfaces web responsivas e dinâmicas para sistemas web-based utilizando AngularJS e ReactJS. Aprimorei práticas de engenharia de software e colaborei com equipes multidisciplinares, aplicando conceitos de programação orientada a objetos e funcional.
