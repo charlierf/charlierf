@@ -1,6 +1,6 @@
 # Charlie Fonseca
 
-## Pesquisador e Desenvolvedor em IA | Advogado
+## Pesquisador e Desenvolvedor em IA
 
 [Charlie Fonseca](https://dev.charliefonseca.com.br/)
 
