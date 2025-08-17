@@ -1,11 +1,11 @@
 # Charlie Fonseca
 
-## Pesquisador e Desenvolvedor em IA
+## Ciência da Computação e Inteligência Artificial
 
 [Charlie Fonseca](https://dev.charliefonseca.com.br/)
 
 ### Sobre Mim
-Sou **pesquisador e desenvolvedor em IA** com formação em **Direito** e graduando em **Ciência da Computação**. Tenho experiência em **Machine Learning**, **Visão Computacional** e **LLMs**, com foco em **automação jurídica** e **análise de dados**. Contribuí para o projeto **AssessorAI**, aplicando soluções de IA para análise jurídica, e participo do projeto **HelpU**, aprovado na **13ª edição do Campus Mobile**. Em **2023**, publiquei o livro *15 Contos de Suspense e Mistério do ChatGPT*, explorando o potencial criativo da **inteligência artificial generativa**.
+**Pesquiso e desenvolvo soluções com Inteligência Artifical**. Tenho formação em **Direito** e sou graduando em **Ciência da Computação**. Tenho experiência em **Machine Learning**, **Visão Computacional** e **LLMs**, com foco em **automação jurídica** e **análise de dados**. Contribuí para o projeto **AssessorAI**, aplicando soluções de IA para análise jurídica, e participo do projeto **HelpU**, aprovado na **13ª edição do Campus Mobile**. Em **2023**, publiquei o livro *15 Contos de Suspense e Mistério do ChatGPT*, explorando o potencial criativo da **inteligência artificial generativa**.
 
 ### Habilidades
 - Inteligência Artificial:
@@ -64,8 +64,8 @@ Sou **pesquisador e desenvolvedor em IA** com formação em **Direito** e gradua
 - **Bacharelado em Direito** - Universidade Tiradentes
 
 ### Estatísticas
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=charlierf&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFFF)
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=charlierf&layout=compact&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFFF) 
+![GitHub Stats](https://github-readme-stats-kappa-opal-36.vercel.app/api?username=charlierf&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFFF)
+![Top Langs](https://github-readme-stats-kappa-opal-36.vercel.app/api/top-langs/?username=charlierf&layout=compact&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFFF) 
 
 ---
 
