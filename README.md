@@ -64,8 +64,8 @@
 - **Bacharelado em Direito** - Universidade Tiradentes
 
 ### Estatísticas
-![GitHub Stats](https://github-readme-stats-kappa-opal-36.vercel.app/api?username=charlierf&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFFF)
-![Top Langs](https://github-readme-stats-kappa-opal-36.vercel.app/api/top-langs/?username=charlierf&layout=compact&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFFF) 
+![GitHub Stats](https://github-readme-stats-kappa-opal-36.vercel.app/api/?username=charlierf&show_icons=true&theme=cobalt2)
+![Top Langs](https://github-readme-stats-kappa-opal-36.vercel.app/api/top-langs/?username=charlierf&layout=compact&theme=cobalt2) 
 
 ---
 
