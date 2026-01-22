@@ -49,6 +49,9 @@
 [![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=007BFF)](mailto:dev@charliefonseca.com.br)
 
 ### Experiência
+- **di2win**  
+  Atuo como Cientista de Dados em projetos de Gêmeos Digitais.
+
 - **Chip&Cia**  
   Atuei no desenvolvimento do AssessorAI, uma solução inovadoras em inteligência artificial generativa, explorando modelos de linguagem avançados e técnicas de processamento de linguagem natural para aprimorar a automação jurídica.
 
