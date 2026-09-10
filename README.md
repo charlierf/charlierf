@@ -5,42 +5,46 @@
 [Charlie Fonseca](https://dev.charliefonseca.com.br/)
 
 ### Sobre Mim
-**Pesquiso e desenvolvo soluções com Inteligência Artifical**. Tenho formação em **Direito** e sou graduando em **Ciência da Computação**. Tenho experiência em **Machine Learning**, **Visão Computacional** e **LLMs**, com foco em **automação jurídica** e **análise de dados**. Contribuí para o projeto **AssessorAI**, aplicando soluções de IA para análise jurídica, e participo do projeto **HelpU**, aprovado na **13ª edição do Campus Mobile**. Em **2023**, publiquei o livro *15 Contos de Suspense e Mistério do ChatGPT*, explorando o potencial criativo da **inteligência artificial generativa**.
+**Pesquiso e desenvolvo soluções com Inteligência Artificial**. Sou **Mestrando em Computação Inteligente** e **Bacharel em Ciência da Computação** pela UFS, além de possuir formação e MBA em **Direito**. Tenho forte atuação em **Machine Learning**, **Visão Computacional** e **LLMs** (com foco em modelos open-source, quantização e deploy local). Desenvolvi o **AtaRI**, uma API conteinerizada para automação de atas de reunião, e possuo sistemas registrados no INPI, como o **AssessorAI** (automação jurídica) e o **ReciclaHub**. Também atuo no desenvolvimento full-stack de aplicações web e APIs.
 
 ### Habilidades
-- Inteligência Artificial:
-	![Ollama](https://img.shields.io/badge/Ollama-FF9900?style=for-the-badge&logo=ollama&logoColor=white)
-	![OpenAI GPT](https://img.shields.io/badge/OpenAI_GPT-412991?style=for-the-badge&logo=openai&logoColor=white)
-	![Google Gemini](https://img.shields.io/badge/Google_Gemini-4285F4?style=for-the-badge&logo=googlegemini&logoColor=white)
-	![Yolov8](https://img.shields.io/badge/Yolov8-007ACC?style=for-the-badge&logo=yolo&logoColor=white)
-	![Langchain](https://img.shields.io/badge/Langchain-2D3748?style=for-the-badge&logo=langchain&logoColor=white)
-- Desenvolvimento Web: 
-	![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-    ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-    ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-    ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-- Banco de Dados: 
-    ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-000?style=for-the-badge&logo=postgresql)
+- **Inteligência Artificial:**
+  ![Ollama](https://img.shields.io/badge/Ollama-FF9900?style=for-the-badge&logo=ollama&logoColor=white)
+  ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+  ![Langchain](https://img.shields.io/badge/Langchain-2D3748?style=for-the-badge&logo=langchain&logoColor=white)
+  ![OpenAI GPT](https://img.shields.io/badge/OpenAI_GPT-412991?style=for-the-badge&logo=openai&logoColor=white)
+  ![Google Gemini](https://img.shields.io/badge/Google_Gemini-4285F4?style=for-the-badge&logo=googlegemini&logoColor=white)
+  ![Yolov8](https://img.shields.io/badge/Yolov8-007ACC?style=for-the-badge&logo=yolo&logoColor=white)
 
-- Análise de Dados:
-    ![pandas](https://img.shields.io/badge/pandas-130654.svg?style=for-the-badge&logo=pandas)
-    ![Microsoft Power BI](https://img.shields.io/badge/Power_BI-white.svg?style=for-the-badge&logo=powerbi)
-    
-- Linguagens de Programação:
-    ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-    ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-    ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+- **Desenvolvimento Web & APIs:**
+  ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
+  ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+  ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+  ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+  ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
-### Projetos
-- [Algoritmo Deep Learning para Reconhecimento Facial com Keras](https://github.com/charlierf/hands-on-ml-face-recognition)
-- [Implementação de Backtracking](https://github.com/charlierf/paa/tree/main/Labiritinto%20-%20backtracking)
-- [Problema da Mochila e do Container](https://github.com/charlierf/paa/tree/main/Transportadora%20-%20dynamicprogramming)
-- [Implementação de MergeSort](https://github.com/charlierf/paa/tree/main/Porto%20-%20mergesort)
-- [Implementação do Modelo Produtor-Consumidor](https://github.com/DCOMP-UFS/implementacao-do-modelo-produtor-consumidor-charlierf)
-- [Relógios Vetoriais](https://github.com/DCOMP-UFS/relogios-vetoriais-charlierf)
-- [Firmware do Robô de Sumô](https://github.com/charlierf/RoboSumo)
+- **Banco de Dados & Infra:**
+  ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+  ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+  ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+
+- **Análise de Dados & Linguagens:**
+  ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+  ![pandas](https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+  ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+  ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+
+### Projetos Recentes
+- **AtaRI**: API conteinerizada para geração automatizada de atas de reuniões utilizando um pipeline de modelos de IA open source e LLMs locais.
+- **Ca$hew**: Aplicação web em React e Supabase para gestão financeira e de estoque de negócios criativos.
+- **ReciclaHub**: Aplicativo web/mobile para gestão de reciclagem (Registro INPI).
+- **AssessorAI**: Plataforma de análise de processos e documentos jurídicos com inteligência artificial (Registro INPI).
+- **HelpU**: Aplicação mobile com Visão Computacional, aprovada na 13ª edição do Campus Mobile.
+
+*(Consulte meus repositórios para mais projetos acadêmicos e implementações de algoritmos).*
 
 ### Publicações
+- **Artigo**: *Soberania de dados e IA on-premise: implementação de um pipeline de geração de Atas com modelos de código aberto na Universidade Federal de Sergipe* - Apresentado no WTICIFES 2026 (Bento Gonçalves - RS).
 - **Livro**: [15 Contos de Suspense e Mistério do ChatGPT](https://a.co/d/2wk0DeH).
 
 ### Social e Contato
@@ -50,19 +54,20 @@
 
 ### Experiência
 - **di2win**  
-  Atuo como Cientista de Dados em projetos de Gêmeos Digitais.
+  Atuo como Cientista de Dados em projetos de Gêmeos Digitais industriais, validando modelos e analisando dados de linhas de produção.
 
 - **Chip&Cia**  
-  Atuei no desenvolvimento do AssessorAI, uma solução inovadoras em inteligência artificial generativa, explorando modelos de linguagem avançados e técnicas de processamento de linguagem natural para aprimorar a automação jurídica.
+  Atuei no desenvolvimento do AssessorAI, uma solução inovadora em IA generativa, explorando LLMs avançados e PLN para aprimorar a automação jurídica.
 
 - **SofTeam**  
-  Desenvolvi interfaces web responsivas e dinâmicas para sistemas web-based utilizando AngularJS e ReactJS. Aprimorei práticas de engenharia de software e colaborei com equipes multidisciplinares, aplicando conceitos de programação orientada a objetos e funcional.
+  Desenvolvi interfaces dinâmicas para sistemas web-based utilizando AngularJS e ReactJS. Apliquei práticas de engenharia de software colaborando com equipes multidisciplinares.
 
-- **Telus International – Personalized Internet Ads Assessor**  
-  Participei de um projeto de inteligência artificial, anotando vídeos em francês e colaborando com líderes e colegas de equipe em inglês para esclarecer dúvidas e garantir o cumprimento dos prazos estabelecidos.
+- **Telus International**  
+  Participei de um projeto de inteligência artificial, anotando vídeos em francês e colaborando em inglês para garantir o cumprimento das métricas de qualidade.
 
 ### Educação
-- **Bacharelado em Ciência da Computação** (em andamento) - Universidade Federal de Sergipe
+- **Mestrado em Computação Inteligente** (em andamento) - Universidade Federal de Sergipe (PROCC)
+- **Bacharelado em Ciência da Computação** - Universidade Federal de Sergipe
 - **MBA em Direito Imobiliário** - Universidade Cândido Mendes
 - **Bacharelado em Direito** - Universidade Tiradentes
 
@@ -73,7 +78,6 @@
 ---
 
 > "A tecnologia é a ferramenta para transformar a imaginação em realidade."
-
 
 
 <!--
